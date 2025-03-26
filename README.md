@@ -26,8 +26,10 @@ sudo nano /home/website/index.html
         <title>mi pagina prueba </title>
 </head>
 <body>
-        <h1>Mombre: Mario Abreu</h1>
-        <h1>Matricula: 2024-2369</h1>
+    
+        <h1>Mombre: Hugo De Jesus </h1>
+        <h1>Matricula: 2023-0890 </h1>
+
 
 </body>
 </html>
